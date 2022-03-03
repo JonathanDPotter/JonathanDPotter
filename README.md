@@ -1,5 +1,5 @@
 # Jonathan Potter
-I am learning full-stack web development.  I have been learning Javascript and React.  I will soon be learning about the back-end.
+I am learning full-stack web development.  I have been learning Javascript, React and Node/Express.
 
 <!---
 JonathanDPotter/JonathanDPotter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
