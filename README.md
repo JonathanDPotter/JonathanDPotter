@@ -1,5 +1,6 @@
 # Jonathan Potter
-I have been learning full-stack developement with React, Redux, Typescript, Node, and Express.
+
+I am a self taught web developer with a year and 8 months of experience developing applications with javascript and React.  I have approximately 8 months of experience developing Express apps and using TypeScript for both Express and React applications.  I have some familiarity with Python, and can easily learn more in that language.
 
 I have many example projects of what I have learned so far, and I am looking for my first web developement job. You can view my portfolio [here](https://portfolio-next-snowy-omega.vercel.app/).
 
